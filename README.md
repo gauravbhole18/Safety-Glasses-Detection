@@ -9,29 +9,10 @@ A simple computer vision project that detects whether a person is wearing glasse
 - Bounding box detection for glasses
 - FPS display for performance monitoring
 
-Requirements
+## Requirements
+- Python 3.x
+- OpenCV
+- Matplotlib
 
-Python 3.x
 
-OpenCV
-
-Matplotlib
-
-📷 Real-Time Webcam Detection
-
-Run the webcam detection script:
-
-python webcam.py
-
-The script:
-
-Captures webcam frames
-
-Classifies glasses presence
-
-Runs detection if glasses are present
-
-Draws bounding boxes
-
-Displays FPS
 
